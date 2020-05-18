@@ -1,2 +1,2 @@
 # Court-Counter
-All the files regarding Court Counter app.
+A small app to note down points in any court game, eliminating the need to record scores in paper
